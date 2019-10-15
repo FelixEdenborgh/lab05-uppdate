@@ -1,0 +1,33 @@
+Iden är att det ska vara som en väderstation som vissar upp data, där en DHT11 sensor lässer av hur varmt det är och fuktigheten. 
+Och vissar det sedan i konsollen.
+När DHT11 sensorn blir = 25 grader eller 0 grader så ska lampan blinka
+
+Jag kommer jobba själv.
+
+
+
+Tids Schema:
+Tisdag 2019-10-01: Bygg ett blockschema, och färdigställ att du får "ok" att göra uppgiften
+Samt sätt upp allt med git raspetorys mm.
+
+Onsdag 2019-10-02: Sätt ihop arduinon med alla komponenterna, och läss alla datasheets, samt fixa git.
+
+Torsdag 2019-10-03: Börja skriva koden som tar in datan från DHT11 sensorn och få den att funka.
+gita upp allt.
+
+Fredag 2019-10-04: Fixa in så lampan funkar och vill jobba. Samt börja få ihop så lampan blinkar när temperaturen når speciell grad.
+
+Lördag 2019-10-05: Kolla så allt funkar / leta bugs.
+
+Söndag 2019-10-06: Ladda upp första delen i uppgiften.
+
+Måndag 2019-10-07: Se till att allt fungerar.
+
+Tisdag 2019-10-08: Börja skriv på raport eventuellt fixa till saker som inte är klara.
+
+Jag kommer behöva en Arduino uno R3, en DHT11 sensor, 1 led lampa.
+Tror jag kommer behöva ett DHT11 biblotek, samt stdlib, mm.
+Samt fritzing.com För blockSchema
+
+7. Kommer hålla mig mot atom på ubuntu.
+
